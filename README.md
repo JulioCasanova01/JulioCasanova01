@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=flat-square" />
   </p>
 
-  [GitHub](https://github.com/JulioCasanova01) · [LinkedIn](YOUR_LINKEDIN_URL)
+  [GitHub](https://github.com/JulioCasanova01)
 
 </div>
 
@@ -41,6 +41,7 @@ My long-term goal is to become a **Systems Engineer**, strengthening my knowledg
 
 - Currently studying: Analysis and Development of Software (ADSO) – SENA.
 - Technical qualification: Software Programming Technician.
+- Course in pedagogical leadership.
 - Main interests: Backend Development, Web Development, Databases, and Software Architecture.
 - Currently exploring: GitHub Foundations, cloud computing, and software development best practices.
 - Based in: Huila, Colombia.
@@ -141,7 +142,6 @@ The platform aims to connect tourists, visitors, administrators, and tourism ser
 - Architecture: Three-tier architecture + MVC.
 - Security concepts: JWT and Role-Based Access Control (RBAC).
 
-**Project Repository:** [HuilaTour – Conecta](https://github.com/JulioCasanova01)
 
 ---
 
@@ -242,23 +242,7 @@ The principles I aim to apply in my projects include:
 - **Continuous Learning:** Improving technical knowledge through practice.
 - **Quality:** Developing solutions with reliability and maintainability in mind.
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCasanova01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCasanova01&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=JulioCasanova01&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## Let's Connect!
 
@@ -270,9 +254,6 @@ I'm open to connecting with other developers, learning from the community, colla
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
   <br /><br />
 
